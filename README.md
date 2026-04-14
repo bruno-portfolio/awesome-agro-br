@@ -1,4 +1,4 @@
-# Awesome Agro BR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Verificação de Links](https://github.com/brunoalano/awesome-agro-br/actions/workflows/links.yml/badge.svg)](https://github.com/brunoalano/awesome-agro-br/actions/workflows/links.yml)
+# Awesome agro br [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Verificação de Links](https://github.com/brunoalano/awesome-agro-br/actions/workflows/links.yml/badge.svg)](https://github.com/brunoalano/awesome-agro-br/actions/workflows/links.yml)
 
 > Lista curada de recursos **gratuitos** para ciências agrárias no Brasil — materiais de estudo, ferramentas, datasets e referências técnicas.
 
