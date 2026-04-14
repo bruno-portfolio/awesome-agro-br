@@ -1,0 +1,41 @@
+name: Verificação de Links
+
+on:
+  push:
+    branches: [main]
+    paths: ["**.md"]
+  pull_request:
+    branches: [main]
+    paths: ["**.md"]
+  schedule:
+    - cron: "0 8 * * 1" # toda segunda-feira às 8h UTC
+
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verificar links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,204,301,302,403
+            --timeout 30
+            --max-retries 3
+            --max-concurrency 5
+            --exclude-path ./pesquisa-consolidada.md
+            './**/*.md'
+          fail: true
+
+      - name: Criar issue para links quebrados
+        if: failure()
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Links quebrados detectados"
+          content-filepath: ./lychee/out.md
+          labels: bug,links
