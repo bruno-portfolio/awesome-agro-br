@@ -192,9 +192,9 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 
 #### Café
 
-- `[Livro]` [Manual do Café — Manejo de Cafezais em Produção](http://www.sapc.embrapa.br/arquivos/consorcio/publicacoes_tecnicas/livro_manejo_cafezais_producao.pdf) — Embrapa/SAPC. Manejo completo de lavouras em produção.
-- `[Livro]` [Manual do Café — Colheita e Preparo](http://www.sapc.embrapa.br/arquivos/consorcio/publicacoes_tecnicas/livro_colheita_preparo.pdf) — Embrapa/SAPC. Colheita, secagem, beneficiamento, classificação.
-- `[Livro]` [Cultivares de Café](http://www.sapc.embrapa.br/arquivos/consorcio/publicacoes_tecnicas/Livro_Cultivares.pdf) — Embrapa/SAPC. Características das principais cultivares de arábica e conilon.
+- `[PDF]` [Manual de Segurança e Qualidade para a Cultura do Café](https://www.infoteca.cnptia.embrapa.br/bitstream/doc/111868/1/MANUALSEGURANCAQUALIDADEParaaculturadocafe.pdf) — Embrapa. Boas práticas, manejo e qualidade da produção.
+- `[PDF]` [Colheita e Preparo do Café Brasileiro — Aspectos Qualitativos](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/549461/1/doc50.pdf) — Embrapa Cerrados. Colheita, secagem, beneficiamento, classificação e qualidade.
+- `[Livro]` [Catálogo de Cultivares de Café Arábica](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1145722/1/v18-09-09-22-Embrapa-Cafe-Documentos-16.pdf) — Embrapa Café, 2022. Documentos 16. Características das principais cultivares de arábica registradas.
 - `[PDF]` [Manejo Integrado de Pragas e Doenças do Café Arábica](https://www.infoteca.cnptia.embrapa.br/infoteca/handle/doc/1167902) — Embrapa Café, Circular Técnica 8, 2024. MIP atualizado: bicho-mineiro, broca, ferrugem, cercosporiose.
 
 #### Cana-de-Açúcar
@@ -365,7 +365,7 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 ## Cursos e Plataformas
 
 - `[Curso]` [SENAR EAD](https://ead.senar.org.br) — Maior acervo de cursos gratuitos com certificado para agro. Bovinocultura, ovinocultura, pastagens, solos, sanidade, gestão rural.
-- `[Curso]` [Embrapa e-Campo](https://e-campo.sede.embrapa.br/) — Cursos e capacitações da Embrapa. Pecuária, pastagens, ILPF, solos.
+- `[Curso]` [Embrapa e-Campo](https://www.embrapa.br/e-campo) — Cursos e capacitações da Embrapa. Pecuária, pastagens, ILPF, solos.
 - `[Vídeo]` [e-Aulas USP](https://eaulas.usp.br) — Disciplinas gravadas da ESALQ e FMVZ/USP. Nível universitário.
 - `[Vídeo]` [e-Disciplinas USP](https://edisciplinas.usp.br/) — Material didático de disciplinas: apostilas, slides, listas.
 - `[Vídeo]` [e-Aulas USP — Zootecnia](https://eaulas.usp.br/portal/video?idItem=26315) — Aulas de forragicultura e produção animal da ESALQ.
