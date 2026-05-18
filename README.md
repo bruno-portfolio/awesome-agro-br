@@ -1,4 +1,4 @@
-# Awesome Agro BR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Verificação de Links](https://github.com/brunoalano/awesome-agro-br/actions/workflows/links.yml/badge.svg)](https://github.com/brunoalano/awesome-agro-br/actions/workflows/links.yml)
+# Awesome Agro BR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Verificação de Links](https://github.com/bruno-portfolio/awesome-agro-br/actions/workflows/links.yml/badge.svg)](https://github.com/bruno-portfolio/awesome-agro-br/actions/workflows/links.yml)
 
 > Lista curada de recursos **gratuitos** para ciências agrárias no Brasil — materiais de estudo, ferramentas, datasets e referências técnicas.
 
@@ -64,6 +64,7 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 
 - `[PDF]` [Processo de Criação das Aves de Postura](https://www.bibliotecaagptea.org.br/zootecnia/avicultura/artigos/PROCESSO%20DE%20CRIACAO%20DAS%20AVES%20DE%20POSTURA%20EMBRAPA%20SUINOS%20E%20AVES.pdf) — Embrapa Suínos e Aves.
 - `[PDF]` [Manual de Manejo dos Reprodutores de Frango de Corte](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1146663/1/SDoc-230.pdf) — Embrapa Suínos e Aves, 2022.
+- `[PDF]` [Sistema Alternativo de Criação de Galinhas Caipiras](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1122469/1/SPOCriacaoGalinhasCaipiras2018.pdf) — Embrapa Meio-Norte, 2018. Instalações, manejo reprodutivo, sanidade, nutrição e mercado para sistema caipira.
 
 ### Aquicultura e Piscicultura
 
@@ -71,7 +72,18 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 - `[PDF]` [Sistemas de Cultivo em Piscicultura](https://www.embrapa.br/documents/1354377/1752280/Sistemas+Cultivo+Piscicultura.pdf) — Embrapa. Viveiros, tanques-rede, raceway.
 - `[PDF]` [Manual de Boas Práticas na Criação de Peixes](https://www.defesa.agricultura.sp.gov.br/arquivos/educacao-sanitaria/Manual_BP_cultivo_ISBN_ok2compressed-1.pdf) — Defesa Agropecuária/SP. Manejo, sanidade, qualidade da água.
 - `[PDF]` [Aquicultura no Brasil](https://www.alice.cnptia.embrapa.br/bitstream/doc/408178/1/Aquicultura.pdf) — Embrapa. Panorama da aquicultura brasileira.
+- `[PDF]` [Manejo Alimentar e da Qualidade da Água na Produção de Tilápia-do-Nilo](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1131706/1/SERIE-DOCUMENTOS-130-JULIO-06-05-21.pdf) — Embrapa Pesca e Aquicultura, 2021. Espécie nº1 da piscicultura brasileira.
+- `[PDF]` [Aspectos Técnicos e Econômicos da Produção de Tilápias em Tanques-Rede](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1146882/1/doc-52-2022.pdf) — Embrapa, 2022. Custos, manejo e viabilidade.
 - `[Portal]` [Instituto de Pesca/SP — Livros e e-books](https://www.pesca.sp.gov.br/livros-e-e-books) — Publicações gratuitas sobre piscicultura, carcinicultura e maricultura.
+
+### Apicultura
+
+- `[Livro]` [Criação de Abelhas — ABC da Agricultura Familiar](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1069586/1/ABCCriacaodeabelhas2edLR2016.pdf) — Embrapa Meio-Norte, 2ª edição, 2016. Biologia das abelhas, montagem do apiário, equipamentos, coleta de enxames, manejo, nutrição, colheita de mel.
+
+### Equideocultura
+
+- `[Livro]` [Equideocultura — Manejo e Alimentação](https://www.cnabrasil.org.br/assets/arquivos/185-EQUIDEOS.pdf) — SENAR, coleção 185, 2018. Etologia, instalações, manejo nutricional e sanitário.
+- `[PDF]` [Manual de Boas Práticas de Manejo em Equideocultura](https://www.gov.br/agricultura/pt-br/assuntos/producao-animal/arquivos-publicacoes-bem-estar-animal/manual_boas_praticas_digital.pdf) — MAPA, 2017. Bem-estar, casqueamento, instalações, transporte.
 
 ## Ciências Animais Transversais
 
@@ -102,6 +114,11 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 - `[PDF]` [Controle Parasitário de Bovinos de Corte](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/938978/1/Controleparasitariodebovinosdecorte.pdf) — Embrapa. Carrapatos, moscas-dos-chifres, verminoses.
 - `[PDF]` [Sanidade de Caprinos e Ovinos](https://www.infoteca.cnptia.embrapa.br/bitstream/doc/534126/1/doc77.pdf) — Embrapa Caprinos e Ovinos.
 
+### Bem-Estar Animal
+
+- `[PDF]` [Bem-Estar Animal: Desafios, Oportunidades e Perspectivas Globais](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1127146/1/DOC-286-Final-em-alta-1.pdf) — Embrapa Gado de Corte, 2020. Panorama global e indicadores de bem-estar aplicáveis a sistemas tropicais.
+- `[PDF]` [Bem-Estar Animal e Ambiência na ILPF](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/202666/1/Bem-estar-animal-e-ambiencia-na-ILPF.pdf) — Embrapa. Termorregulação e conforto térmico em sistemas integrados.
+
 ## Forragicultura e Pastagens
 
 - `[Livro]` [Forragens: Produção e Manejo](https://www.sistemafaep.org.br/wp-content/uploads/2023/06/PR.0359-Forragens-Producao-e-manejo_web.pdf) — FAEP/SENAR-PR, 2023. 13.4 MB. Manual completo e atualizado sobre produção e manejo de forragens.
@@ -120,11 +137,18 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 ### Solos e Fertilidade
 
 - `[Livro]` [Manual de Calagem e Adubação para os Estados do RS e SC](https://www.sbcs-nrs.org.br/docs/Manual_de_Calagem_e_Adubacao_para_os_Estados_do_RS_e_de_SC-2016.pdf) — SBCS/NRS, 2016. 31 MB. Referência regional para recomendação de adubação.
-- `[Livro]` [Manual de Calagem e Adubação do Estado do Rio de Janeiro](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/177352/1/Manual-de-calagem-e-adubacao-RJ-2013.pdf) — Embrapa Solos, 2013.
+- `[Livro]` [Manual de Calagem e Adubação do Estado do Rio de Janeiro](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/963089/1/ManualdecalagemeadubacaoRJ2013.pdf) — Embrapa Solos, 2013.
 - `[Livro]` [Manual Internacional de Fertilidade do Solo](https://www.bibliotecaagptea.org.br/agricultura/solos/livros/MANUAL%20INTERNACIONAL%20DA%20FERTILIDADE%20DO%20SOLO.pdf) — AGPTEA. Tradução da referência internacional.
 - `[PDF]` [Manual de Adubação e de Calagem para RS e SC](https://www.sbcs-nrs.org.br/docs/manual_de_adubacao_2004_versao_internet.pdf) — SBCS/NRS, edição anterior (2004). Ainda amplamente utilizado.
+- `[PDF]` [Práticas de Conservação do Solo e Recuperação de Áreas Degradadas](https://www.infoteca.cnptia.embrapa.br/bitstream/doc/498802/1/doc90.pdf) — Embrapa. Erosão, terraceamento, plantio em nível, recuperação de pastagens degradadas.
 - `[Dataset]` [SoilGrids](https://soilgrids.org) — Mapa global de propriedades do solo em 250m: pH, carbono orgânico, textura, CTC. CC-BY 4.0.
 - `[Portal]` [SBCS — Sociedade Brasileira de Ciência do Solo](https://www.sbcs.org.br) — Eventos, cursos e publicações sobre ciência do solo.
+
+### Agrometeorologia e Climatologia
+
+- `[Portal]` [INMET — Instituto Nacional de Meteorologia](https://portal.inmet.gov.br/) — Previsões, boletins agroclimáticos, mapas de risco.
+- `[Dataset]` [BDMEP — Banco de Dados Meteorológicos](https://bdmep.inmet.gov.br/) — INMET. Séries históricas de mais de 600 estações: temperatura, precipitação, umidade, vento, radiação.
+- `[Portal]` [ZARC — Zoneamento Agrícola de Risco Climático](https://www.gov.br/agricultura/pt-br/assuntos/riscos-seguro/programa-nacional-de-zoneamento-agricola-de-risco-climatico) — MAPA. Janelas de plantio por município, cultura e tipo de solo. Base para crédito e seguro rural.
 
 ### Irrigação e Recursos Hídricos
 
@@ -151,6 +175,7 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 - `[Livro]` [Plantio Direto — A Tecnologia que Revolucionou a Agricultura Brasileira](https://febrapdp.org.br/download/publicacoes/LIVRO_PLANTIO_DIRETO_WEB.pdf) — FEBRAPDP. Histórico, princípios e benefícios do sistema plantio direto.
 - `[Livro]` [Manejo e Conservação do Solo](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/859117/1/livromanejo.pdf) — Embrapa. Erosão, conservação, manejo de solo para culturas anuais e perenes.
 - `[PDF]` [Tecnologia de Produção de Semente de Soja](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1057882/1/Documentos380OL1.pdf) — Embrapa Soja, 2016. Produção, beneficiamento e qualidade de sementes.
+- `[PDF]` [Amostragem de Sementes para Análise em Laboratório](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/783063/4/ct81.pdf) — Embrapa. Procedimentos conforme RAS (Regras para Análise de Sementes/MAPA).
 - `[PDF]` [Secagem, Beneficiamento e Armazenamento de Grãos](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1015251/1/p223.pdf) — Embrapa. Pós-colheita de grãos.
 - `[PDF]` [Proteção Pós-Colheita de Grãos e Sementes de Milho Orgânico](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1159412/1/Recomendacoes-para-a-protecao-pos-colheita-de-graos-e-sementes-de-milho-organico.pdf) — Embrapa.
 - `[Portal]` [Biblioteca AGPTEA — Agricultura Geral](https://www.bibliotecaagptea.org.br/agricultura-novo/agricultura-geral/livros/) — Livros e apostilas sobre fitotecnia.
@@ -170,6 +195,7 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 - `[Livro]` [Manual do Café — Manejo de Cafezais em Produção](http://www.sapc.embrapa.br/arquivos/consorcio/publicacoes_tecnicas/livro_manejo_cafezais_producao.pdf) — Embrapa/SAPC. Manejo completo de lavouras em produção.
 - `[Livro]` [Manual do Café — Colheita e Preparo](http://www.sapc.embrapa.br/arquivos/consorcio/publicacoes_tecnicas/livro_colheita_preparo.pdf) — Embrapa/SAPC. Colheita, secagem, beneficiamento, classificação.
 - `[Livro]` [Cultivares de Café](http://www.sapc.embrapa.br/arquivos/consorcio/publicacoes_tecnicas/Livro_Cultivares.pdf) — Embrapa/SAPC. Características das principais cultivares de arábica e conilon.
+- `[PDF]` [Manejo Integrado de Pragas e Doenças do Café Arábica](https://www.infoteca.cnptia.embrapa.br/infoteca/handle/doc/1167902) — Embrapa Café, Circular Técnica 8, 2024. MIP atualizado: bicho-mineiro, broca, ferrugem, cercosporiose.
 
 #### Cana-de-Açúcar
 
@@ -177,29 +203,75 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 
 #### Soja
 
+- `[Livro]` [Tecnologias de Produção de Soja](https://www.infoteca.cnptia.embrapa.br/infoteca/handle/doc/1123928) — Embrapa Soja. Referência completa: cultivares, manejo, nutrição, fitossanidade, colheita. Atualizada periodicamente.
 - `[PDF]` [Manual de Segurança e Qualidade para a Cultura da Soja](https://www.infoteca.cnptia.embrapa.br/bitstream/doc/116424/1/MANUALSEGURANCAQUALIDADEParaaculturadesoja.pdf) — Embrapa. Inoculantes, cultivares, colheita mecânica.
+
+#### Algodão
+
+- `[PDF]` [Sistema de Produção para a Cultura do Algodão Herbáceo](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/903096/1/SIDDOCUMENTOS71SISTEMADEPRODUCAOPARAACULTURADOALGODAOHERBACEO.pdf) — Embrapa Algodão. Cultivares, plantio, manejo, colheita.
+
+#### Mandioca
+
+- `[Livro]` [Práticas para Produção de Mandioca](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1155717/1/Praticas-para-producao-de-mandioca.Cartilha.2023.pdf) — Embrapa, 2023. Cartilha técnica atualizada: plantio, manejo, colheita, processamento.
+
+#### Cacau
+
+- `[PDF]` [Cartilha de Boas Práticas na Lavoura Cacaueira](https://www.gov.br/agricultura/pt-br/assuntos/ceplac/publicacoes/outras-publicacoes/cartilha-do-cacaueiro-com-ficha-catalografica.pdf) — CEPLAC/MAPA, 2020. Orientações para cacauicultura sustentável.
+- `[PDF]` [Recomendações de Corretivos e Fertilizantes para Cacau](https://www.gov.br/agricultura/pt-br/assuntos/ceplac/publicacoes/boletins-tecnicos-bahia/bt-203.pdf) — CEPLAC, BT-203. Adubação e calagem para a cultura.
 
 #### ILPF — Integração Lavoura-Pecuária-Floresta
 
 - `[PDF]` [Integração Lavoura-Pecuária-Floresta — ILPF](https://www.infoteca.cnptia.embrapa.br/bitstream/doc/1101780/1/ILPF.pdf) — Embrapa. Conceitos, modalidades e perspectivas de sistemas integrados.
 
-### Fruticultura, Olericultura e Silvicultura
+### Fruticultura
 
 - `[Livro]` [Fruteiras — Embrapa](https://www.alice.cnptia.embrapa.br/bitstream/doc/658334/1/LV09002.pdf) — Embrapa. Cultivo de fruteiras tropicais e subtropicais.
+- `[Livro]` [Sistema de Produção de Banana](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1181069/1/SistemaProducao-Banana-AnaLucia-2025-AINFO.pdf) — Embrapa Mandioca e Fruticultura, 2025. 106p. Sistema orgânico atualizado.
+- `[Portal]` [Biblioteca AGPTEA — Fruticultura](https://www.bibliotecaagptea.org.br/agricultura-novo/fruticultura/fruticultura-livros/) — Livros sobre fruticultura tropical e temperada.
+
+### Olericultura
+
 - `[Livro]` [Hortaliças — Coleção Plantar Embrapa](https://www.bibliotecaagptea.org.br/agricultura/olericultura/livros/HORTALICAS%20COLECAO%20PLANTAR%20EMBRAPA.pdf) — Embrapa/AGPTEA. Cultivo de hortaliças da coleção Plantar.
 - `[Livro]` [Manual Técnico para Cultivo de Hortaliças](https://www.horticeres.com.br/drive/abcsem_%202020.pdf) — ABCSEM, 4ª edição, 2020. Manual completo com fichas por cultura.
 - `[PDF]` [Manual de Produção de Hortaliças Tradicionais](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/983087/1/MANUAL-DE-PRODUCAO-DE-HORTALICAS-TRADICIONAIS.pdf) — Embrapa Hortaliças. Manejo de hortaliças tradicionais brasileiras.
 - `[PDF]` [Produção de Mudas de Hortaliças](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1050963/1/Producao-de-Mudas-de-Hortalicas.pdf) — Embrapa Hortaliças. Substratos, recipientes, manejo de mudas.
+- `[PDF]` [Produção Integrada de Tomate Tutorado](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1149470/1/Producao-Integrada-Tomate-Tutorado-Modulo-3-Apostila-compressed.pdf) — Embrapa. Apostila técnica completa: PIT, MIP, manejo nutricional.
+- `[PDF]` [500 Perguntas, 500 Respostas — Pós-Colheita de Hortaliças](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/921546/1/500perguntasposcolheitahortalicas.pdf) — Embrapa Hortaliças. Conservação, embalagem, transporte.
 - `[Portal]` [Biblioteca AGPTEA — Olericultura](https://www.bibliotecaagptea.org.br/agricultura-novo/olericultura/olericultura-livros/) — Livros e apostilas sobre cultivo de hortaliças.
-- `[Portal]` [Biblioteca AGPTEA — Fruticultura](https://www.bibliotecaagptea.org.br/agricultura-novo/fruticultura/fruticultura-livros/) — Livros sobre fruticultura tropical e temperada.
+
+### Silvicultura e Restauração Florestal
+
+- `[Livro]` [Cultivo do Eucalipto](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1155567/1/EmbrapaCultivoDoEucalipto2014.pdf) — Embrapa Florestas, 4ª edição, 2014. Espécies, clones, sementes, mudas, sistemas de plantio, sistemas agroflorestais, nutrição, pragas, doenças, colheita.
+- `[PDF]` [Restauração via Semeadura Direta no Cerrado](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1042015/1/RestauracaosemeaduradiretacerradoPDFWEB.pdf) — Embrapa. Técnica de baixo custo para restauração de áreas degradadas do Cerrado.
+
+### Plantas Medicinais, Aromáticas e Condimentares
+
+- `[PDF]` [Orientações Técnicas para o Cultivo de Plantas Medicinais, Aromáticas e Condimentares](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1028982/1/CT70.pdf) — Embrapa. Espécies, propagação, manejo, secagem, qualidade.
 
 ## Proteção de Plantas
 
-### Entomologia, Fitopatologia e MIP
+### Entomologia
 
 - `[PDF]` [Apostila de Entomologia Agrícola](https://agrarias.ufpr.br/marzagao/wp-content/uploads/sites/25/2022/07/Apostila_Entomologia_Agricola.pdf) — UFPR, 2022. Pragas agrícolas, métodos de controle, MIP.
+
+### Fitopatologia
+
+- `[PDF]` [Manual Básico de Técnicas Fitopatológicas](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1054670/1/CartilhaManualFito21514Hermes.pdf) — Embrapa Mandioca e Fruticultura, 2016. Procedimentos de laboratório para diagnóstico de doenças.
+- `[Livro]` [Glossário de Fitopatologia](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1153468/1/GLOSSARIO-FITOPATOLOGIA-ed04-2023.pdf) — Embrapa, 4ª edição, 2023. 598p. ilustradas. Referência terminológica completa.
+
+### Plantas Daninhas
+
+- `[Livro]` [Manual de Identificação e Manejo de Plantas Daninhas em Cana-de-Açúcar](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/875060/1/ManualBrighenti.pdf) — Embrapa. Identificação, biologia e manejo integrado.
+
+### MIP, Bioinsumos e Controle Biológico
+
 - `[Livro]` [Uso do MIP e Controle Biológico pelos Agricultores](https://www.plantwise.org/wp-content/uploads/sites/4/2019/03/2016-Livro-Embrapa-Uso-Do-Mip-E-Controle-Biolo%CC%81gico-Pelos-Agricultores.pdf) — Embrapa, 2016. Manejo integrado de pragas com foco em controle biológico.
-- `[PDF]` [Tecnologia de Aplicação de Defensivos Agrícolas](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/426350/1/Dc102.pdf) — Embrapa. Formulações, métodos de aplicação, calibração de pulverizadores, EPIs, deriva.
+- `[Livro]` [Manual de Análises de Bioinsumos para Uso Agrícola: Inoculantes](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/264242/1/Livro-Analises-Bioinsumos-completo-final.pdf) — Embrapa. Controle de qualidade para produção de bioinsumos.
+
+### Tecnologia de Aplicação
+
+- `[Livro]` [Manual de Tecnologia de Aplicação de Agrotóxicos](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/663946/1/CNPMAMAN.DETEC.DEAPLIC.DEAGROT.092.pdf) — Embrapa. Formulações, métodos, fatores que influenciam pulverização, calibração de barras.
+- `[PDF]` [Tecnologia de Aplicação de Defensivos Agrícolas](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/426350/1/Dc102.pdf) — Embrapa. Bicos, geração de gotas, cobertura, EPIs, deriva.
 
 ## Engenharia e Tecnologia Rural
 
@@ -243,7 +315,7 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 | [ANA HidroWeb](https://www.snirh.gov.br/hidroweb) | Dados hidrológicos: vazão, nível, precipitação | Web + API |
 | [dados.gov.br](https://dados.gov.br) | Datasets do MAPA, IBGE, CONAB, INMET | CSV, JSON + API CKAN |
 | [SoilGrids](https://soilgrids.org) | Propriedades do solo global 250m: pH, carbono, textura | GeoTIFF, Web |
-| [SiCAR](https://www.car.gov.br/publico/imoveis/index) | Cadastro Ambiental Rural: APPs, Reservas Legais | Web |
+| [SiCAR](https://consultapublica.car.gov.br/publico/imoveis/index) | Cadastro Ambiental Rural: APPs, Reservas Legais | Web |
 | [CEPEA/ESALQ](https://www.cepea.esalq.usp.br) | Indicadores de preços: boi gordo, leite, soja, milho, café | Excel |
 
 ## Ferramentas e Software
@@ -293,7 +365,7 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 ## Cursos e Plataformas
 
 - `[Curso]` [SENAR EAD](https://ead.senar.org.br) — Maior acervo de cursos gratuitos com certificado para agro. Bovinocultura, ovinocultura, pastagens, solos, sanidade, gestão rural.
-- `[Curso]` [Embrapa e-Campo](https://www.embrapa.br/e-campo) — Cursos e capacitações da Embrapa. Pecuária, pastagens, ILPF, solos.
+- `[Curso]` [Embrapa e-Campo](https://e-campo.sede.embrapa.br/) — Cursos e capacitações da Embrapa. Pecuária, pastagens, ILPF, solos.
 - `[Vídeo]` [e-Aulas USP](https://eaulas.usp.br) — Disciplinas gravadas da ESALQ e FMVZ/USP. Nível universitário.
 - `[Vídeo]` [e-Disciplinas USP](https://edisciplinas.usp.br/) — Material didático de disciplinas: apostilas, slides, listas.
 - `[Vídeo]` [e-Aulas USP — Zootecnia](https://eaulas.usp.br/portal/video?idItem=26315) — Aulas de forragicultura e produção animal da ESALQ.

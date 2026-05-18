@@ -60,4 +60,4 @@ O CI de verificação de links roda semanalmente e abre issues automaticamente p
 
 ## Dúvidas?
 
-Abra uma [issue](../../issues) com sua pergunta.
+Abra uma [issue](https://github.com/bruno-portfolio/awesome-agro-br/issues) com sua pergunta.
