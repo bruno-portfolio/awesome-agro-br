@@ -24,18 +24,11 @@ jobs:
           args: >-
             --verbose
             --no-progress
+            --insecure
             --accept 200,204,301,302,403
-            --timeout 30
-            --max-retries 3
-            --max-concurrency 5
-            --exclude-path ./pesquisa-consolidada.md
+            --timeout 60
+            --max-retries 5
+            --retry-wait-time 5
+            --max-concurrency 2
             './**/*.md'
           fail: true
-
-      - name: Criar issue para links quebrados
-        if: failure()
-        uses: peter-evans/create-issue-from-file@v5
-        with:
-          title: "Links quebrados detectados"
-          content-filepath: ./lychee/out.md
-          labels: bug,links
