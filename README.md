@@ -277,7 +277,8 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 
 ### Mecanização e Agricultura de Precisão
 
-- `[PDF]` [Mecanização Agrícola](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/57073/1/Mecanizacao-agricola.pdf) — Embrapa. Fundamentos de mecanização para a agricultura.
+- `[PDF]` [Trator Agrícola — Características e Fundamentos para sua Seleção](https://www.infoteca.cnptia.embrapa.br/bitstream/doc/548601/1/doc31.pdf) — Embrapa. Frota, dimensionamento, ha/trator, kW/ha.
+- `[PDF]` [Máquinas, Implementos e Equipamentos Utilizados na Agricultura Familiar](https://www.infoteca.cnptia.embrapa.br/infoteca/handle/doc/1118491) — Embrapa. Seleção e manejo de máquinas para pequenas propriedades.
 - `[Portal]` [Biblioteca AGPTEA — Mecanização Agrícola](https://www.bibliotecaagptea.org.br/agricultura-novo/mecanizacao/mecanizacao-agricola-livros/) — Livros sobre tratores, implementos e mecanização.
 
 ### Geoprocessamento e Sensoriamento Remoto
