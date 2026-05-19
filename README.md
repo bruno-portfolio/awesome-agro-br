@@ -365,7 +365,7 @@ Voltada para estudantes de **Engenharia Agronômica**, **Zootecnia** e áreas af
 ## Cursos e Plataformas
 
 - `[Curso]` [SENAR EAD](https://ead.senar.org.br) — Maior acervo de cursos gratuitos com certificado para agro. Bovinocultura, ovinocultura, pastagens, solos, sanidade, gestão rural.
-- `[Curso]` [Embrapa e-Campo](https://www.embrapa.br/e-campo) — Cursos e capacitações da Embrapa. Pecuária, pastagens, ILPF, solos.
+- `[Curso]` [Embrapa Cursos](https://www.embrapa.br/cursos) — Catálogo de cursos e capacitações da Embrapa (plataforma e-Campo). Pecuária, pastagens, ILPF, solos.
 - `[Vídeo]` [e-Aulas USP](https://eaulas.usp.br) — Disciplinas gravadas da ESALQ e FMVZ/USP. Nível universitário.
 - `[Vídeo]` [e-Disciplinas USP](https://edisciplinas.usp.br/) — Material didático de disciplinas: apostilas, slides, listas.
 - `[Vídeo]` [e-Aulas USP — Zootecnia](https://eaulas.usp.br/portal/video?idItem=26315) — Aulas de forragicultura e produção animal da ESALQ.
